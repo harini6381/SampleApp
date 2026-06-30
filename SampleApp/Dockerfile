@@ -12,14 +12,3 @@ ENTRYPOINT ["dotnet", "SampleApp.dll"]
 
 
 
-
-
-
-
-
-
-
-
-
-
-
